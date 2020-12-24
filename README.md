@@ -3,7 +3,7 @@
 
 ## 1. Insert Candidate  
     // api for insert a candidate into database  
-    **localhost:3000/candidate/insert-candidate**  
+    ** localhost:3000/candidate/insert-candidate **  
 
     // candidate data which we send  
     {  
@@ -14,7 +14,7 @@
   
 ## 2. Assign Score  
     // api for assign score for a candidate  
-    **localhost:3000/candidate/assign-score**  
+    ** localhost:3000/candidate/assign-score **  
 
     // data which we send to assign score  
     {  
@@ -27,7 +27,7 @@
   
 ## 3. Highest score  
     // api for Highest score  
-    **localhost:3000/candidate/highest-score**  
+    ** localhost:3000/candidate/highest-score **  
 
     //output:  
     Heighest Marks <heighest_marks> out of 30  
@@ -35,7 +35,7 @@
     
 ## 4. Average scores  
     // api for Average scores  
-    **localhost:3000/candidate/average-score**  
+    ** localhost:3000/candidate/average-score **  
 
     //output:  
     Average Scores  
